@@ -1,0 +1,9 @@
+<resources>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="app_name">Just Check</string>
+    <string name="first">ds</string>
+    <string name="two">Two</string>
+    <string name="sec_two">Section Two</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:title="@string/first"
+                android:id="@+id/first"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="@string/two"
+                android:id="@+id/two"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="ds"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="Night"
+                android:id="@+id/fourth"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="dsdsds"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="ds"
+                android:icon="@drawable/ic_icon"/>
+
+    <item android:title="Sharing is Caring">
+        <menu>
+            <item android:title="Share"
+                android:id="@+id/share"
+                android:icon="@drawable/ic_icon"/>
+            <item android:title="Rate us"
+                android:id="@+id/rateus"
+                android:icon="@drawable/ic_icon"/>
+
+        </menu>
+    </item>
+</menu>
